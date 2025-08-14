@@ -1,0 +1,24 @@
+Sprint 1 - UI/UX Design Notes
+
+1. Wireframes:
+   - Created low-fidelity wireframes for the homepage, product details page, and checkout.
+   - Ensured consistent grid layout across all pages.
+
+2. Color Palette:
+   - Selected an accessible palette with high contrast for readability.
+   - Primary color: #1A73E8 (Blue)  
+     Secondary color: #F9AB00 (Amber)  
+     Neutral: #F5F5F5 (Light Gray)
+
+3. Typography:
+   - Heading: Poppins, Bold, 24px
+   - Body: Roboto, Regular, 16px
+   - Line height optimized for readability on mobile and desktop.
+
+4. Interaction:
+   - Added hover effects for buttons and cards.
+   - Designed smooth transitions for page navigation.
+
+5. Next Steps:
+   - Begin high-fidelity mockups in Figma.
+   - Prepare design handoff documentation for developers.
